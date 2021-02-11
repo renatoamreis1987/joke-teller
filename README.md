@@ -1,5 +1,4 @@
 <!-- ABOUT THE PROJECT -->
-##LIMITATIONS API ON FREE MODE
 ## About The Project
 
 A project that converts text to Speech. The JokeAPI generates a random Joke, then we send that Joke over the Text-to-Speech and we get it as audio. 
